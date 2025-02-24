@@ -1,0 +1,1 @@
+# ForgeryDetection_ELA-LBP-MobileNetV2-CNN
