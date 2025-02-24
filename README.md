@@ -67,5 +67,5 @@ Licensed under **MIT License**.
 Submit issues, feature requests, or pull requests!
 
 ### 📫 Contact
-For inquiries, reach out via GitHub Issues or email.
+For inquiries, reach out via GitHub Issues or email : prempraneethkota@gmail.com
 
