@@ -1,4 +1,3 @@
-# ForgeryDetection_Hybrid_model
 # Hybrid Image Forgery Detection Model
 
 ## Overview
